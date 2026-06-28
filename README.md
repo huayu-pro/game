@@ -35,14 +35,8 @@ How to RunModern browsers block webcam and Web Audio APIs unless served over loc
 
 Start a local HTTP server at the root cats_cradle/ directory:
 
-Python: python -m http.server 8000
-Node.js: npx http-server -p 8000
 
-Open your browser:
-
-Navigate to http://localhost:8000/enhanced/
-
-Interact:
+解压缩用浏览器打开HTML
 
 Allow camera access.
 Click anywhere on the screen to start/enable audio synthesis.
